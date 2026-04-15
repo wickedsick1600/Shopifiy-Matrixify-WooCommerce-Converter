@@ -1,0 +1,8 @@
+{
+  "name": "glossylounge-migration",
+  "private": true,
+  "description": "Shopify Matrixify → WooCommerce CSV (run outside Next.js project)",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
