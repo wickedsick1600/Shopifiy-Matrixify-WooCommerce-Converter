@@ -75,7 +75,7 @@ const COLOUR_MAP = {
   'khaki':              { name: 'Leafy Khaki',        hex: '#706F48' },
   'pale-blue':          { name: 'Ocean Pale Blue',    hex: '#9CC3DC' },
   'pale-lavender':      { name: 'Pastel Lavender',    hex: '#B9B3D1' },
-  'black':              { name: 'Jet Black',          hex: '#383E4E' },
+  'black':              { name: 'Black',          hex: '#000000' },
   'grey':               { name: 'Stone Grey',         hex: '#939597' },
   'blue':               { name: 'Violet Blue',        hex: '#464F75' },
   'beige':              { name: 'Warm Beige',         hex: '#EDE3D4' },
